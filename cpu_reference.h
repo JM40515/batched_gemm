@@ -1,0 +1,1 @@
+void CPUBatchedGemm(float* A, float* B, float* C, int batchCount, int N);
